@@ -1,4 +1,4 @@
-# tmux shortcuts & cheatsheet
+# tmux shortcuts
 
 start new:
 
